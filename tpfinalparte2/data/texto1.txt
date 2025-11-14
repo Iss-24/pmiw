@@ -1,0 +1,15 @@
+
+
+Wirt se adentró en el bosque con su hermano Gregory y debe cuidarlo.
+Usá la linterna y su luz para vencer a la Bestia antes de que sea demasiado tarde.
+
+Controles:
+- A / D → Mover a Wirt a la izquierda o derecha
+- Click con mouse → Disparar luz 
+
+Tené cuidado: la linterna solo puede usarse 10 veces.
+
+Si lográs que la Bestia pierda toda su energía, 
+podrás escapar del bosque.
+Si se te acaba la luz... 
+la oscuridad te consumirá.
